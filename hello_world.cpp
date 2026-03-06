@@ -1,5 +1,5 @@
-#include <iostream>
-#include <string>
+#include <iostream>//для std::cout
+#include <string>//для std::string
 
 int main() {
     std::string name;
