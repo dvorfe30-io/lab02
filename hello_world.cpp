@@ -1,5 +1,5 @@
-#include <iostream>//для std::cout
-#include <string>//для std::string
+#include <iostream>//для std::cout, std::cin
+#include <string>//для std::string пупупу
 
 int main() {
     std::string name;
