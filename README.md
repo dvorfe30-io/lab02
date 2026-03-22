@@ -115,10 +115,7 @@ To https://github.com/dvorfe30-io/lab02.git
 </details>
 
 9. Проверьте, что история коммитов доступна в удалённом репозитории.
-
-```bash
-git log
-```
+https://github.com/dvorfe30-io/lab02/blob/main/P1.9.png
 
 # Part 2
 
