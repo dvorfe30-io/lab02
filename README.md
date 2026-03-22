@@ -267,7 +267,7 @@ branch 'patch1' set up to track 'lab02/patch1'.
 
 </details>
 
-8. Проверьте, что новые изменения есть в созданном на **шаге 5** pull-request.
+8. Проверьте, что новые изменения есть в созданном на **шаге 5** pull-request.https://github.com/dvorfe30-io/lab02/blob/main/P2.8.png
 
 9. В удалённом репозитории выполните слияние PR `patch1 -> main` и удалите ветку `patch1` в удалённом репозитории.
 
@@ -536,4 +536,4 @@ To https://github.com/dvorfe30-io/lab02.git
 
 8. Убедитесь, что в pull-request пропали конфликты.
 
-9. Вмержите pull-request `patch2 -> main`.
+9. Вмержите pull-request `patch2 -> main`.github.com/dvorfe30-io/lab02/blob/main/P3l.png
