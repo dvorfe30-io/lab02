@@ -120,33 +120,6 @@ To https://github.com/dvorfe30-io/lab02.git
 git log
 ```
 
-<details>
-<summary>output</summary>
-
-```bash
-commit 85bd1ebb122764b079339d2d0e8f25a58293f7fd (HEAD -> main, lab02/main)
-Author: dvorfe30-io dvorfe30@gmail.com
-Date:   Fri Mar 6 19:30:50 2026 +0300
-
-    added updated hello-world.cpp
-
-commit 011b4a85aa868b47264a56d81e095cf51a86d01a
-Author: dvorfe30-io dvorfe30@gmail.com
-Date:   Fri Mar 6 19:15:09 2026 +0300
-
-    add hello_world.cpp
-
-commit 303da300e2afd0aedb8e82d33e2e24a744e9bc15
-Author: dvorfe30-io dvorfe30@gmail.com
-Date:   Fri Mar 6 18:49:51 2026 +0300
-
-    readme.md
-```
-
-</details>
-
----
-
 # Part 2
 
 1. В локальной копии репозитория создайте локальную ветку `patch1`.
