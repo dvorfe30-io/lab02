@@ -536,4 +536,4 @@ To https://github.com/dvorfe30-io/lab02.git
 
 8. Убедитесь, что в pull-request пропали конфликты.
 
-9. Вмержите pull-request `patch2 -> main`.github.com/dvorfe30-io/lab02/blob/main/P3l.png
+9. Вмержите pull-request `patch2 -> main`. https://github.com/dvorfe30-io/lab02/blob/main/P3l.png
